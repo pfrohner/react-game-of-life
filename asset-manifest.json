@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/react-game-of-life/static/js/main.e24b9b84.chunk.js",
+    "main.js.map": "/react-game-of-life/static/js/main.e24b9b84.chunk.js.map",
+    "runtime-main.js": "/react-game-of-life/static/js/runtime-main.3f58db6f.js",
+    "runtime-main.js.map": "/react-game-of-life/static/js/runtime-main.3f58db6f.js.map",
+    "static/js/2.65c4fb16.chunk.js": "/react-game-of-life/static/js/2.65c4fb16.chunk.js",
+    "static/js/2.65c4fb16.chunk.js.map": "/react-game-of-life/static/js/2.65c4fb16.chunk.js.map",
+    "index.html": "/react-game-of-life/index.html",
+    "precache-manifest.c0424e999e8473174074bb27cf7a5cb2.js": "/react-game-of-life/precache-manifest.c0424e999e8473174074bb27cf7a5cb2.js",
+    "service-worker.js": "/react-game-of-life/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f58db6f.js",
+    "static/js/2.65c4fb16.chunk.js",
+    "static/js/main.e24b9b84.chunk.js"
+  ]
+}
